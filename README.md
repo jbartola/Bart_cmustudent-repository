@@ -10,3 +10,8 @@ Here are a few things about me - I have approximately twenty years of law enforc
 What I hope to learn - I use data visualization every day.  Generally, I complete pivot charts and graphs based on spreadsheet data, and I'll complete link analysis on criminal organizations or events.  I know that I can greatly improve my usage of better tools and better concepts in order to provide better visualizations for reports and presentations.  Importantly, I’d like to learn more about visualization and develop a training module for my coworkers to improve their skills as well.  
 
 # Portfolio
+
+#General Government Debt_Week 2
+
+<iframe src="https://data.oecd.org/chart/5FGp" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5FGp" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
