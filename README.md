@@ -25,5 +25,20 @@ What I hope to learn - I use data visualization every day.  Generally, I complet
 
 # Week Three - Fatal Police Shootings Visualization 
 
+#I selected the Washington Post National Police Shooting Index.  This is a fascinating compilation of data and embeds strong graphs and infographics – perfect for someone like me who studies crime trends and is currently taking a data visualization course. According to the site, “The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015. “   One particular graph caught my attention and is displayed below.  
+I enjoyed reviewing this site and the related graphs.  Interestingly, the Washington Post makes the data available, which brings you to their Github page.  
+
+ 
+https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/?noredirect=on
+
+
+
+Overall, this report is excellent. The data I relevant and very detailed, and more important, the raw data is available via a GitHub page.  At first glance, this graph displays a precipitous increase in reported data.  It appears that there is a sharp increase in fatal police shootings.  However, this is not the case.
+The gradually increasing line on this graph represents the number of shootings as they occur throughout the year – the aggregate number by month over a period of a year.  Obviously, this number will increase as time goes by, since police shootings occur almost daily across the United States.  
+The data and the associated representation should be easily and readily understood.  At first glance, it appears that there is an increase over time of a particular action.  
+This graph doesn’t quite work, because it appears that there is a sharp and steady increase in police shootings. This isn’t the case.  In fact, the data proves that police shootings are relatively flat throughout the year.  Shootings do not increase in frequency as time goes by.  I’d change this up a bit.  I’d use the same data but employ the use of a bar chart by month.
+This is what I came up with.  Same data, but very different story.  I used Infogram and enjoyed using the tool.  I broke it down by month and added a year end/grand total bar as well.  I expanded on the tile and added an explanation at the bottom with some commentary.  This just made the graph easier to understand.
+
+
 <div class="infogram-embed" data-id="e3095c2b-f7bb-40d7-9b47-dc93c1282ecc" data-type="interactive" data-title="2018 Police Shootings"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e3095c2b-f7bb-40d7-9b47-dc93c1282ecc" style="color:#989898!important;text-decoration:none!important;" target="_blank">2018 Police Shootings</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
