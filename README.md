@@ -25,7 +25,8 @@ What I hope to learn - I use data visualization every day.  Generally, I complet
 
 # Week Three - Fatal Police Shootings Visualization 
 
-# I selected the Washington Post National Police Shooting Index.  This is a fascinating compilation of data and embeds strong graphs and infographics – perfect for someone like me who studies crime trends and is currently taking a data visualization course. According to the site, “The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015. “   One particular graph caught my attention and is displayed below.  
+I selected the Washington Post National Police Shooting Index.  This is a fascinating compilation of data and embeds strong graphs and infographics – perfect for someone like me who studies crime trends and is currently taking a data visualization course. According to the site, “The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015. “   One particular graph caught my attention and is displayed below. 
+
 I enjoyed reviewing this site and the related graphs.  Interestingly, the Washington Post makes the data available, which brings you to their Github page.  
  
 https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/?noredirect=on
